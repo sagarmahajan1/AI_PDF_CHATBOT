@@ -30,5 +30,9 @@ cd AI_PDF_CHATBOT
 pip install -r requirements.txt
 streamlit run app.py
 
+## 🌐 Live Demo
+
+https://sagar-ai-pdf-chatbot.streamlit.app
+
 ## 👨‍💻 Author
 Sagar Mahajan
